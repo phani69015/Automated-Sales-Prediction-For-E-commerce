@@ -19,5 +19,5 @@ This project aims to create a system that predicts weekly sales for an e-commerc
 
 ### Demonstration
 
-[![Watch the video]()](https://drive.google.com/file/d/1WCmUJJXJZr846bi5CQhFKLqdsBgRrzFk/view?usp=sharing)
+[![Watch the video](https://github.com/phani69015/Automated-Sales-Prediction-For-E-commerce/blob/main/prediction.png)](https://drive.google.com/file/d/1WCmUJJXJZr846bi5CQhFKLqdsBgRrzFk/view?usp=sharing)
 
