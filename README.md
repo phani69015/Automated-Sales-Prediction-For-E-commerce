@@ -14,5 +14,10 @@ This project aims to create a system that predicts weekly sales for an e-commerc
 - Docker
 - Airbyte
 - Google Sheets API
+- Prefect Orchestration
+
+
+### Demonstration
+
 
 
